@@ -3077,7 +3077,6 @@ foreach(string grp; vxt_grps) (nverticesgroup(0, grp)==0)? removevertexgroup(0, 
 > - **Input 3:** aperture value parameter node.
 > - **Input 4:** focal length value parameter node.
 > - **Input 5:** STMap file value parameter node.
-
 > - **Output 0:** P as a Vector value.
 > - **Output 1:** I as a Vector value.
 
